@@ -1,5 +1,5 @@
 
-# Longest Palindromic Substring in Java
+# 5.Longest Palindromic Substring in Java
 
 This Java program aims to find the **longest palindromic substring** within a given string `s`. A palindrome reads the same backward as forward (e.g., "aba" or "racecar"). The program uses an approach that expands around potential centers of the palindrome.
 
